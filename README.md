@@ -73,9 +73,3 @@ Then navigate to any project folder and follow its individual README.
 ##  Certificate
 
 Completed as part of [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) by Harvard University / edX.
-
----
-
-##  Contact
-
-Feel free to connect on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) or reach out via email for collaboration or internship opportunities!
