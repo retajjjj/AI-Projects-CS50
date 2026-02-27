@@ -1,6 +1,6 @@
 #  Degrees of Separation
 
-> Find the shortest path between any two Hollywood actors using the "Six Degrees of Kevin Bacon" concept.
+ Find the shortest path between any two Hollywood actors using the "Six Degrees of Kevin Bacon" concept.
 
 ---
 
